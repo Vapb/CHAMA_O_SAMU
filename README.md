@@ -2,12 +2,13 @@
 
 <h2 dir="ltr" >Equipe: CoffeeHolic</h2>
 
-<hr />Objetivo<p>Criar uma aplicação Software as a Service onde se mostrar dados que expõem a importância e a dificuldade que enfrenta o serviço de atendimento móvel de urgência (SAMU). </p>
+<hr /><hi dir="lrt"> Objetivo</h1>
+<p> Criar uma aplicação Software as a Service onde se mostrar dados que expõem a importância e a dificuldade que enfrenta o serviço de atendimento móvel de urgência (SAMU). </p>
 
 <hr /><h1 dir="ltr" >Descrição</h1>
 
 <br />
-<p>CHAMA_O_SAMU é uma aplicação SaaS que irá gerar gráficos e estatísticas a partir de filtros disponíveis ao usuário sendo (género, data,bairro, causa, trotes e etc). Além disso o aplicativo irá mostra a evolução entre 2014 e 2015 nos meses de janeiro até maio.
+<p>CHAMA_O_SAMU é uma aplicação SaaS que irá gerar gráficos e estatísticas a partir de filtros disponíveis ao usuário sendo (género, data, bairro, causa, trotes e etc). Além disso o aplicativo irá mostra a evolução entre 2014 e 2015 nos meses de janeiro até maio.
 </p>
 
 <hr /><h1 dir="ltr" >Justificativa</h1>

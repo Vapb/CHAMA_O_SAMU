@@ -1,17 +1,19 @@
-<h1 dir="ltr" >Projeto: Crimes analytics - NY</h1>
+<h1 dir="ltr" >Projeto: CHAMA_O_SAMU</h1>
 
 <h2 dir="ltr" >Equipe: CoffeeHolic</h2>
 
-<hr />Objetivo<p>O objetivo desse projeto é utilizar os dados abertos disponíveis do estado de Nova Iorque, que representa os presos sob custódia nos Department of Corrections e Community Supervision de Nova Iorque, que inclui dados sobre o tipo de admissão, cidade, sexo, idade, crime e onde está pagando a sentença. Com o objetivo de mapear crimes cometidos no estado, mostrando a evolução da criminalidade no estado. </p>
+<hr />Objetivo<p>Criar uma aplicação Software as a Service onde se mostrar dados que expõem a importância e a dificuldade que enfrenta o serviço de atendimento móvel de urgência (SAMU). </p>
 
 <hr /><h1 dir="ltr" >Descrição</h1>
 
 <br />
-<p>A aplicação vai ter uma barra de pesquisa/filtro, onde o usuário seleciona os filtros desejados para ser gerados os gráficos, a partir da sua seleção, o usuário também pode selecionar qual tipo de gráfico vai ser gerado (Coluna, Pizza, Barra, etc.)</p>
+<p>CHAMA_O_SAMU é uma aplicação SaaS que irá gerar gráficos e estatísticas a partir de filtros disponíveis ao usuário sendo (género, data,bairro, causa, trotes e etc). Além disso o aplicativo irá mostra a evolução entre 2014 e 2015 nos meses de janeiro até maio.
+</p>
 
 <hr /><h1 dir="ltr" >Justificativa</h1>
 
-<p>Entender como foi a Mapear a distribuição dos crimes cometidos no estado de Nova Iorque, para analisar a evolução da criminalidade nas cidades de Nova Iorque.</p>
+<p>Conscientizar a população da importância do serviço de atendimento móvel de urgência (SAMU) e expor dados sobre o sistema sendo quantidade de viaturas disponíveis e detalhes dos atendimentos no período de 2014 até maio de 2015.
+</p>
 
 <br />
 <hr /><br />

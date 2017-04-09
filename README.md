@@ -2,7 +2,7 @@
 
 <h2 dir="ltr" >Equipe: CoffeeHolic</h2>
 
-<hr /><hi dir="lrt"> Objetivo</h1>
+<hr /><h1 dir="ltr" >Objetivo</h1>
 <p> Criar uma aplicação Software as a Service onde se mostrar dados que expõem a importância e a dificuldade que enfrenta o serviço de atendimento móvel de urgência (SAMU). </p>
 
 <hr /><h1 dir="ltr" >Descrição</h1>
